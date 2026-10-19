@@ -128,7 +128,3 @@ AI语音伴侣/
 - 调整 `pitch` 参数（建议 -5Hz ~ +15Hz）
 - 换用 `zh-CN-XiaoyiNeural` 语音
 - 调整 `rate` 参数改变语速
-
-## 📄 许可
-
-MIT License — 仅供个人学习和娱乐使用。
